@@ -11,9 +11,11 @@ Database Used: MySQL
 IDE used: Netbeans
 
 
+
 SCREENSHOTS:
 
 LOGIN PAGE
+
 ![Screenshot 2024-06-14 095924](https://github.com/reena-10/Bank-Management-System/assets/170872127/5423e750-3d03-4a16-9a44-f6eabfeea46b)
 
 SIGNUP ONE PAGE
@@ -30,7 +32,7 @@ TRANSACTION PAGE
 
 DEPOSIT PAGE
 ![Screenshot 2024-06-14 100130](https://github.com/reena-10/Bank-Management-System/assets/170872127/ff56ae98-484e-4244-b7ae-3e8960eaccc6)
-![Screenshot 2024-06-14 123748](https://github.com/reena-10/Bank-Management-System/assets/170872127/faf58ed7-e500-43de-a07b-51a8c75a8413)
+![Screenshot 2024-06-14 123816](https://github.com/reena-10/Bank-Management-System/assets/170872127/413e0d55-2907-4c2f-b7d0-db28893cdbc3)
 
 WITHDRAWL PAGE
 ![Screenshot 2024-06-14 123911](https://github.com/reena-10/Bank-Management-System/assets/170872127/68cd4809-feb5-4d65-b660-bebd0e6962a6)
