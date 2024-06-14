@@ -42,9 +42,10 @@ PIN CHANGE PAGE
 ![Screenshot 2024-06-14 124012](https://github.com/reena-10/Bank-Management-System/assets/170872127/7aca7e44-2805-4074-a6e8-b5a384116e0e)
 
 MINI STATEMENT PAGE
+
 ![Screenshot 2024-06-14 124032](https://github.com/reena-10/Bank-Management-System/assets/170872127/ba7daf0e-f587-4df0-936d-fbb4c9516479)
 
 CHECK BALANCE PAGE
 ![Screenshot 2024-06-14 124057](https://github.com/reena-10/Bank-Management-System/assets/170872127/5906116f-f37d-447e-b6d9-35b59aea56da)
 
-PIN 
+ 
