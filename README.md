@@ -50,4 +50,8 @@ MINI STATEMENT PAGE
 CHECK BALANCE PAGE
 ![Screenshot 2024-06-14 124057](https://github.com/reena-10/Bank-Management-System/assets/170872127/5906116f-f37d-447e-b6d9-35b59aea56da)
 
+
+THANK YOU NOTE:
+Thank you all who is giving precious time to visit my project which is made with lot of efforts.
+
  
