@@ -2,7 +2,7 @@
 
 “Bank management system also called ATM Simulator System”. It functions similarly to the normal ATM. This ATM Simulator System has functionalities like Opening Banking Account, Deposit, Withdrawl, MiniStatement, Pin Change etc
 
-TECHNOLOGIES USED:
+# TECHNOLOGIES USED:
 
 Core Java (Swing & AWT)
 
